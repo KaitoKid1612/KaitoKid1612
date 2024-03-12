@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **leviet1612@gmail.com**
 
+- 📫 I will have a exam about **AWS**
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
