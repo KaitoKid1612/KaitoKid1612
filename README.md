@@ -11,6 +11,8 @@
 
 - 📫 I will have a exam about **AWS**
 
+- 📫 I know English and a little Japanese
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
