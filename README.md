@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitokid1612&label=Profile%20views&color=0e75b6&style=flat" alt="kaitokid1612" /> </p>
 
-- 🌱 I’m currently learning **ReacJS, NextJS**
+- 🌱 I’m currently learning **NuxtJS, NextJS**
 
 - 📫 How to reach me **leviet1612@gmail.com**
 
