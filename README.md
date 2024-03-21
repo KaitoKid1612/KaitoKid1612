@@ -13,8 +13,6 @@
 
 - 📫 I know English and a little Japanese
 
-- I like football
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
