@@ -11,7 +11,7 @@
 
 - 📫 I will have a exam about **AWS**
 
-- 📫 I know English and a little Japanese
+- 📫 I know English
 
 - ⚡ Fun fact **I am Funny**
 
