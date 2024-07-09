@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Le Viet Viet</h1>
 <h3 align="center">A passionate Web developer from Viet Nam</h3>
 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=WELLCOME+TO+MY+GITHUB+PROFILE;I'M+LE+VIET+VIET+(KAITOKID);I'M+FULLSTACK+DEVELOP" alt="Typing SVG" /></a>
+<br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitokid1612&label=Profile%20views&color=0e75b6&style=flat" alt="kaitokid1612" /> </p>
