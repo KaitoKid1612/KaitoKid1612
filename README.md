@@ -23,6 +23,12 @@
 <a href="https://fb.com/https://www.facebook.com/so.lucky161212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/so.lucky161212" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitokid1612&show_icons=true&locale=en&layout=compact" alt="kaitokid1612" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitokid1612&show_icons=true&locale=en" alt="kaitokid1612" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitokid1612&" alt="kaitokid1612" /></p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -35,9 +41,3 @@
     <img src="https://skillicons.dev/icons?i=git,aws,html,css,docker,postgres,mysql,figma,firebase,redis,github,java,js,linux,md,materialui,nginx,mongodb,nextjs,nodejs,postman,tailwind,ts,vscode,kubernetes,nestjs,pnpm,php,phpstorm&perline=14" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitokid1612&show_icons=true&locale=en&layout=compact" alt="kaitokid1612" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitokid1612&show_icons=true&locale=en" alt="kaitokid1612" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitokid1612&" alt="kaitokid1612" /></p>
