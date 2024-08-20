@@ -38,6 +38,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,html,css,docker,postgres,mysql,figma,firebase,redis,github,vuejs,react,js,linux,md,materialui,nginx,mongodb,nuxtjs,nextjs,nodejs,postman,tailwind,ts,vscode,kubernetes,kafka,nestjs,go,pnpm,php,laravel,phpstorm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vuejs,react,nuxtjs,nextjs,nodejs,nestjs,go,php,laravel,postgres,mysql,mongodb,firebase,redis,figma,postman,git,github,vscode,docker,kubernetes,kafka,aws,linux,nginx,&perline=14" />
   </a>
 </p>
