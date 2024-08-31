@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJS, NextJS**
 
-- 📫 How to reach me **leviet1612@gmail.com** 
+- 📫 How to reach me **leviet1612@gmail.com**
 
 - 📫 I will have a exam about **AWS**
 
