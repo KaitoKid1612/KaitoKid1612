@@ -13,7 +13,7 @@
 
 - 📫 I will have a exam about **AWS**
 
-- 📫 I know English and learning Japanese
+- 📫 I know English and learning Japanese 
 
 - ⚡ Fun fact **I am Funny**
 
