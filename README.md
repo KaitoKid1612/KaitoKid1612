@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **leviet1612@gmail.com**
 
-- 📫 I will have a exam about **AWS** 
+- 📫 I will have a exam about **AWS**
 
 - 📫 I know English and learning Japanese
 
