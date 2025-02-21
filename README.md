@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitokid1612&show_icons=true&locale=en" alt="kaitokid1612" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitokid1612&" alt="kaitokid1612" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaitokid1612" alt="kaitokid1612" /></p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
